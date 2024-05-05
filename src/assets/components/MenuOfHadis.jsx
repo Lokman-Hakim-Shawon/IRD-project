@@ -21,14 +21,14 @@ const MenuOfHadis = () => {
         .catch(error=>console.log(error))
     },[])
     return (
-        <div className="text-lg md:text-sm">
-            <div className="flex justify-around w-full text-center">
+        <div className="text-sm md:text-sm ">
+            <div className="flex justify-around text-center border-2 w-5/6 fixed md:w-1/5 bg-white">
                 <h1 onClick={()=>isActive(true)} className={active==true?`border-2 flex-1 py-3 bg-primary text-white`:`border-2 flex-1 py-3 text-black`}>বই</h1>
                 <h1 onClick={()=>isActive(false)} className={active==false?`border-2 flex-1 py-3 bg-primary text-white`:`border-2 flex-1 py-3 text-black`}>অধ্যায়</h1>
             </div>
-            <div className="p-3">
-        <label className="input flex items-center gap-2 bg-gray-100 md:border-2 p-2 rounded-lg font-normal">
-          <input type="text" className="grow hidden md:block bg-gray-100" placeholder="Search for filter" />
+            <div className="md:p-3 pt-16">
+        <label className="input flex items-center gap-2 bg-gray-100 border-2 border-gray-200 md:border-2 p-2 rounded-lg font-normal">
+          <input type="text" className="grow bg-gray-100" placeholder="Search for filter" />
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 16 16"
@@ -46,7 +46,7 @@ const MenuOfHadis = () => {
       <div className="p-3 space-y-2">
         {
             active==true?
-            data.map(data=><div key={data.code} className="flex items-center w-full px-5 py-2 space-x-5 bg-gray-100 rounded-lg">
+            data.map(data=><div key={data.code} className="flex items-center w-full md:px-5 py-2 space-x-2 md:space-x-5 bg-gray-100 rounded-lg">
             <div className="border-2 px-3 py-1 rounded-full">{data.code}</div>
             <div className="">
                 <h1 className="tex-sm">{data.name}</h1>

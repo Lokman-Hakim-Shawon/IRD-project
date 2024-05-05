@@ -6,8 +6,8 @@ const TopNavbar = () => {
     <div className="flex justify-between items-center bg-white py-2 md:py-5 border-2">
       {/* left part */}
       <div className="flex items-center gap-x-5 mx-5">
-        <div className="border-2 p-2 rounded-lg">
-          <IoKeypadOutline className="text-xl " />
+        <div className="border-2 p-2 rounded-lg border-primary">
+          <IoKeypadOutline className="text-xl text-primary" />
         </div>
 
         <div className="hidden md:block">

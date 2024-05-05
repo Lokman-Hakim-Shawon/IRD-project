@@ -1,0 +1,243 @@
+[
+    {
+      "chapter": "ওহীর সূচনা অধ্যায়",
+      "hadith_range": "১ - ৭",
+      "code": "১"
+    },
+    {
+      "chapter": "ঈমান",
+      "hadith_range": "৮ - ৫৮",
+      "code": "২"
+    },
+    {
+      "chapter": "ইল্‌ম",
+      "hadith_range": "৫৯ - ১৩৪",
+      "code": "৩"
+    },
+    {
+      "chapter": "ওজু",
+      "hadith_range": "১৩৫ - ২৪৭",
+      "code": "৪"
+    },
+    {
+      "chapter": "গোসল",
+      "hadith_range": "২৪৮ - ২৯৩",
+      "code": "৫"
+    },
+    {
+      "chapter": "হায়েজ",
+      "hadith_range": "২৯৪ - ৩৩৩",
+      "code": "৬"
+    },
+    {
+      "chapter": "তায়াম্মুম",
+      "hadith_range": "৩৩৪ - ৩৪৮",
+      "code": "৭"
+    },
+    {
+      "chapter": "সালাত",
+      "hadith_range": "৩৪৯ - ৫২০",
+      "code": "৮"
+    },
+    {
+      "chapter": "সালাতের ওয়াক্তসমূহ",
+      "hadith_range": "৫২১ - ৬০২",
+      "code": "৯"
+    },
+    {
+      "chapter": "আযান",
+      "hadith_range": "৬০৩ - ৮৭৫",
+      "code": "১০"
+    },
+    {
+      "chapter": "জুমু'আ",
+      "hadith_range": "৮৭৬ - ৯৪১",
+      "code": "১১"
+    },
+    {
+      "chapter": "খাওফ (ভয় ভীতির সালাত)",
+      "hadith_range": "৯৪২ - ৯৪৭",
+      "code": "১২"
+    },
+    {
+      "chapter": "দুই ঈ’দ",
+      "hadith_range": "৯৪৮ - ৯৮৯",
+      "code": "১৩"
+    },
+    {
+      "chapter": "বিতর",
+      "hadith_range": "৯৯০ - ১০০৪",
+      "code": "১৪"
+    },
+    {
+      "chapter": "বৃষ্টির জন্য দোয়া",
+      "hadith_range": "১০০৫ - ১০৩৯",
+      "code": "১৫"
+    },
+    {
+      "chapter": "সূর্যগ্রহণ",
+      "hadith_range": "১০৪০ - ১০৬৬",
+      "code": "১৬"
+    },
+    {
+      "chapter": "কুরআন তিলাওয়াতের সিজ্‌দা",
+      "hadith_range": "১০৬৭ - ১০৭৯",
+      "code": "১৭"
+    },
+    {
+      "chapter": "সালাতে কসর করা",
+      "hadith_range": "১০৮০ - ১১১৯",
+      "code": "১৮"
+    },
+    {
+      "chapter": "তাহাজ্জুদ",
+      "hadith_range": "১১২০ - ১১৮৭",
+      "code": "১৯"
+    },
+    {
+      "chapter": "মক্কা ও মদীনার মসজিদে সালাতের মর্যাদা",
+      "hadith_range": "১১৮৮ - ১১৯৭",
+      "code": "২০"
+    },
+    {
+      "chapter": "সালাতের সাথে সংশ্লিষ্ট কাজ",
+      "hadith_range": "১১৯৮ - ১২২৩",
+      "code": "২১"
+    },
+    {
+      "chapter": "সাহু",
+      "hadith_range": "১২২৪ - ১২৩৬",
+      "code": "২২"
+    },
+    {
+      "chapter": "জানাযা",
+      "hadith_range": "১২৩৭ - ১৩৯৪",
+      "code": "২৩"
+    },
+    {
+      "chapter": "যাকাত",
+      "hadith_range": "১৩৯৫ - ১৫১২",
+      "code": "২৪"
+    },
+    {
+      "chapter": "হজ্জ",
+      "hadith_range": "১৫১৩ - ১৭৭২",
+      "code": "২৫"
+    },
+    {
+      "chapter": "‘উমরাহ্‌",
+      "hadith_range": "১৭৭৩ - ১৮০৫",
+      "code": "২৬"
+    },
+    {
+      "chapter": "পথে আটকে পড়া ও ইহ্‌রাম অবস্থায় শিকারকারীর বিধান",
+      "hadith_range": "১৮০৬ - ১৮২০",
+      "code": "২৭"
+    },
+    {
+      "chapter": "ইহ্‌রাম অবস্থায় শিকার ও অনুরূপ কিছুর বদলা",
+      "hadith_range": "১৮২১ - ১৮৬৬",
+      "code": "২৮"
+    },
+    {
+      "chapter": "মদীনার ফযিলত",
+      "hadith_range": "১৮৬৭ - ১৮৯০",
+      "code": "২৯"
+    },
+    {
+      "chapter": "সাওম",
+      "hadith_range": "১৮৯১ - ২০০৭",
+      "code": "৩০"
+    },
+    {
+      "chapter": "তারাবীহ্‌র সালাত",
+      "hadith_range": "২০০৮ - ২০১৩",
+      "code": "৩১"
+    },
+    {
+      "chapter": "লাইলাতুল ক্বাদ্‌র এর ফযিলত",
+      "hadith_range": "২০১৪ - ২০২৪",
+      "code": "৩২"
+    },
+    {
+      "chapter": "ই’তিকাফ",
+      "hadith_range": "২০২৫ - ২০৪৬",
+      "code": "৩৩"
+    },
+    {
+      "chapter": "ক্রয়-বিক্রয়",
+      "hadith_range": "২০৪৭ - ২২৩৮",
+      "code": "৩৪"
+    },
+    {
+      "chapter": "সলম ( অগ্রিম ক্রয়-বিক্রয় )",
+      "hadith_range": "২২৩৯ - ২২৫৬",
+      "code": "৩৫"
+    },
+    {
+      "chapter": "শুফ’আ",
+      "hadith_range": "২২৫৭ - ২২৫৯",
+      "code": "৩৬"
+    },
+    {
+      "chapter": "ইজারা",
+      "hadith_range": "২২৬০ - ২২৮৬",
+      "code": "৩৭"
+    },
+    {
+      "chapter": "হাওয়ালাত",
+      "hadith_range": "২২৮৭ - ২২৮৯",
+      "code": "৩৮"
+    },
+    {
+      "chapter": "যামিন হওয়া",
+      "hadith_range": "২২৯০ - ২২৯৮",
+      "code": "৩৯"
+    },
+    {
+      "chapter": "ওয়াকালাহ ( প্রতিনিধিত্ব)",
+      "hadith_range": "২২৯৯ - ২৩১৯",
+      "code": "৪০"
+    },
+    {
+      "chapter": "চাষাবাদ",
+      "hadith_range": "২৩২০ - ২৩৫০",
+      "code": "৪১"
+    },
+    {
+      "chapter": "পানি সেচ",
+      "hadith_range": "২৩৫১ - ২৩৮৪",
+      "code": "৪২"
+    },
+    {
+      "chapter": "ঋণ গ্রহণ, ঋণ পরিশোধ, নিষেধাজ্ঞা আরোপ ও দেউলিয়া ঘোষণা",
+      "hadith_range": "২৩৮৫ - ২৪০৯",
+      "code": "৪৩"
+    },
+    {
+      "chapter": "ঝগড়া-বিবাদ মীমাংসা",
+      "hadith_range": "২৪১০ - ২৪২৫",
+      "code": "৪৪"
+    },
+    {
+      "chapter": "পড়ে থাকা বস্তু উঠানো",
+      "hadith_range": "২৪২৬ - ২৪৩৯",
+      "code": "৪৫"
+    },
+    {
+      "chapter": "যুল্‌ম ও ক্বিসাস",
+      "hadith_range": "২৪৪০ - ২৪৮২",
+      "code": "৪৬"
+    },
+    {
+      "chapter": "অংশীদারিত্ব",
+      "hadith_range": "২৪৮৩ - ২৫০৭",
+      "code": "৪৭"
+    },
+    {
+      "chapter": "বন্ধক",
+      "hadith_range": "২৫০৮ - ২৫১৬",
+      "code": "৪৮"
+    }
+  ]
+  
