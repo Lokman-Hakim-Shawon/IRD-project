@@ -1,0 +1,123 @@
+[
+    {
+      "name": "সহিহ বুখারী",
+      "total_hadiths": 7563,
+      "code": "M"
+    },
+    {
+      "name": "সহিহ মুসলিম",
+      "total_hadiths": 7453,
+      "code": "N"
+    },
+    {
+      "name": "সুনানে আন-নাসায়ী",
+      "total_hadiths": 5758,
+      "code": "AD"
+    },
+    {
+      "name": "সুনানে আবু দাউদ",
+      "total_hadiths": 5274,
+      "code": "T"
+    },
+    {
+      "name": "জামে' আত-তিরমিজি",
+      "total_hadiths": 3956,
+      "code": "IM"
+    },
+    {
+      "name": "সুনানে ইবনে মাজাহ",
+      "total_hadiths": 4341,
+      "code": "MI"
+    },
+    {
+      "name": "মুয়াত্তা ইমাম মালিক",
+      "total_hadiths": 1832,
+      "code": "RS"
+    },
+    {
+      "name": "রিয়াদুস সলেহিন",
+      "total_hadiths": 1905,
+      "code": "BM"
+    },
+    {
+      "name": "আল লু'লু ওয়াল মারজান",
+      "total_hadiths": 1906,
+      "code": "LM"
+    },
+    {
+      "name": "হাদিস সম্ভার",
+      "total_hadiths": 2013,
+      "code": "HS"
+    },
+    {
+      "name": "সিলসিলা সহিহা",
+      "total_hadiths": 60,
+      "code": "SS"
+    },
+    {
+      "name": "জাল জয়িফ হাদিস সিরিজ",
+      "total_hadiths": 102,
+      "code": "JH"
+    },
+    {
+      "name": "মিশকাতুল মাসাবিহ",
+      "total_hadiths": 2758,
+      "code": "MM"
+    },
+    {
+      "name": "৪০ হাদিস",
+      "total_hadiths": 42,
+      "code": "40"
+    },
+    {
+      "name": "আদাবুল মুফরাদ",
+      "total_hadiths": 1336,
+      "code": "AM"
+    },
+    {
+      "name": "জুজ'উল রাফায়েল ইয়াদাইন",
+      "total_hadiths": 56,
+      "code": "JR"
+    },
+    {
+      "name": "সহিহ হাদিসে কুদসি",
+      "total_hadiths": 163,
+      "code": "HK"
+    },
+    {
+      "name": "১০০ সুসাব্যস্ত হাদিস",
+      "total_hadiths": 101,
+      "code": "100"
+    },
+    {
+      "name": "মিশকাতে জয়িফ হাদিস",
+      "total_hadiths": 106,
+      "code": "MJ"
+    },
+    {
+      "name": "শামায়েলে তিরমিযি",
+      "total_hadiths": 320,
+      "code": "ST"
+    },
+    {
+      "name": "সহিহ তারগিব ওয়াত তাহরিব",
+      "total_hadiths": 200,
+      "code": "TW"
+    },
+    {
+      "name": "সহিহ ফাযায়েলে আমল",
+      "total_hadiths": 151,
+      "code": "FA"
+    },
+    {
+      "name": "ঊপদেশ",
+      "total_hadiths": 234,
+      "code": "UP"
+    },
+    {
+      "name": "রমজানের দুর্বল হাদিস",
+      "total_hadiths": 36,
+      "code": "RH"
+    }
+  ]
+  
